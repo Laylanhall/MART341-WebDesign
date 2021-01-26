@@ -1,1 +1,2 @@
-# MART341-WebDesign
+# Layla Hall' MART341-WebDesign
+I watched this weeks video, and then went through week 2 module. The readings went well, but I could never get the mini reading checks to pop-up as they did in the video. I checked to make sure pop-up blockers were disabled, nothing was keeping it from loading. I am still a little confused by the terminology "directory" as there is not a classification in here as such (the readings say is means folder so I guess 'new file' is that? Unless it was supposed to be a new branch; then I've gone completly off track). I tried to follow the step-by-step list in the module. Hopefully I did it right. If I have figured out 80% of this I will feel successful! I am completely out of my element here, but it has been fun so far. 
