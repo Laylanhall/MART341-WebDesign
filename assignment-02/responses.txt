@@ -1,0 +1,12 @@
+1. How is the world wide web different than the internet?
+  - the WWW is the pages, or what we see and interact with, and the internet is a giant infrastruture the web uses.
+2. Briefly describe how the internet works.
+  - I couldn't find a direct answer or topic in this weeks class so I am hoping this is meant to be a simplisic answer. The internet is a network of networks that the web makes usable.
+3. What is a directory, and what is its relationship to files? 
+  - A directory is a "folder" and it is what organizes our files.
+4. How will VCS benefit you?
+  - Helps track chages, revert back (edit), and share and collaborate.
+5. Take a screenshot anytime while working on your homework.
+6. What is your favorite kind of art?
+  - music
+7. Rename this screenshot using proper naming conventions, and upload it to your assignment-02 directory.
