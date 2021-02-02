@@ -1,0 +1,4 @@
+https://writingexcuses.com and https://www.noaa.gov and https://www.chewy.com
+The relationship between an IP address and the DNS is...The IP address the unique address to a device on the internet. Such as a computer; which, uses the DNS to find domain names, like one of the sites above, to find its IP address which then connects the computer to the place on the net. I have been thinking about it as a switchboard? My grandma had an answering service and it sounds similar to the relationship between devise, IP, and DNS.
+Cookies are how websites remember us, one of the videos described it as an id. My login info that gets saved are cookies.
+The three essential parts of a URL are the 1) protocol - http . 2) domain - www.example.com . 3) port - :80 for http or :443 for HTTPS  
