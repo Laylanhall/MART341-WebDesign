@@ -11,4 +11,4 @@ The colors I choose are ...
 - RGB: (0,219,150), (225,0,134), (253,251,118)
 - My made up names: Sea-green, magenta pink, bright banana yellow
 
-3. Challenges this week. Reminding myself of basic CSS formatting. I had to go back and find out how to even make a css folder, pretty easy once I was reminded.
+3. Challenges this week. Reminding myself of basic CSS formatting. I had to go back and find out how to even make a css folder, pretty easy once I was reminded. Other than that I think it went well, now at week 10 I feel a lot better about my knowledge and my understanding of terminology is much better. 
