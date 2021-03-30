@@ -1,30 +1,33 @@
 div{
     text-align: left;
     line-height: 1.45em;
-    font-family: Merriweather, sans-serif;
+    font-family: Merriweathe, sans-serif;
     margin-bottom: 10px;
     padding: 5px;
 }
 h1, h3, h5{
     text-align: center;
     font-family: FiraSans, sans-serif;
+    color: #663333
 
+}
+.opening-paragraph::first-letter{
+  font-size: 25px
 }
 .opening-paragraph{
     color: #cc9999;
     font-size: 20px;
-    text-indent: 10px;
+    text-indent: 18px;
     font-weight:700;
 }
-
-.opening-paragraph{
-    font-size: 20px;
-}
 .second-paragraph{
-    color: #660000;
+    color: #996666;
     font-size: 16px;
 }
-
+.third-paragraph{
+    color: #996666;
+    font-size: 16px;
+}
 #book_info{
     text-decoration: none;
     font-family: Merriweather, sans-serif;
@@ -36,7 +39,7 @@ h1, h3, h5{
 }
 
 table{
-    border: 1px solid black;
+    border: 5px solid #663333;
     font-family:  FiraSans, sans-serif;
     font-weight: 700;
     color: #660000
@@ -44,4 +47,5 @@ table{
 
 p{
     font-family:  Merriweather, sans-serif;
+    color: #996666
 }
