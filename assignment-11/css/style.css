@@ -11,16 +11,17 @@ h1, h3, h5{
 
 }
 .opening-paragraph{
-    color: #244523;
+    color: #cc9999;
     font-size: 20px;
     text-indent: 10px;
     font-weight:700;
 }
 
-.opening-paragraph::first-line{
-    font-size: 30px;
+.opening-paragraph{
+    font-size: 20px;
 }
 .second-paragraph{
+    color: #660000;
     font-size: 16px;
 }
 
@@ -38,6 +39,7 @@ table{
     border: 1px solid black;
     font-family:  FiraSans, sans-serif;
     font-weight: 700;
+    color: #660000
 }
 
 p{
