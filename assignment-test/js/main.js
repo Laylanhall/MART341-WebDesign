@@ -3,31 +3,31 @@ var ctx = c.getContext("2d");
 
 // first line
 ctx.moveTo(0, 0);
-ctx.lineTo(300, 100);
+ctx.lineTo(600, 100);
 ctx.stroke();
 
 // second line
 ctx.moveTo(200, 100);
-ctx.lineTo(0, 200);
+ctx.lineTo(0, 600);
 ctx.stroke();
 
 // third line
 ctx.moveTo(0, 200);
-ctx.lineTo(300, 400);
+ctx.lineTo(400, 400);
 ctx.stroke();
 
 // fourth line
-ctx.moveTo(200, 300);
-ctx.lineTo(0, 400);
+ctx.moveTo(200, 100);
+ctx.lineTo(0, 500);
 ctx.stroke();
 
 // fifth line
 ctx.moveTo(0, 400);
-ctx.lineTo(400, 500);
+ctx.lineTo(300, 500);
 ctx.stroke();
 
 // sixth line
-ctx.moveTo(300, 00);
+ctx.moveTo(100, 00);
 ctx.lineTo(0, 700);
 ctx.stroke();
 
