@@ -1,6 +1,12 @@
-1. My Imaginary client was a blogger obsessed with Tiny Houses. They wanted a simple website where they could discuss designs, materials, builders etc. They desired a dropdown with links that would lead their readers to three of their favorite tiny house builders.
+1. Today was a disaster.
 
-2. Mobile-first design is important in this day in age because the majority of website users are viewing it on their smart phone's. Accessability is most important.
+I started the homework late. I've been consistently completely my homework for this class on Mondays just fine. Well not today.
 
-3. My biggest challenge this week was getting my image sizes right. I discovered I had my size definition at percent not pixels. once I got that squared away things started looking less blurry. It was pretty frustrating for awhile until then though.
-- Sometimes the style css gives me trouble just because there is so much to it. but nothing feels better when you click 'open in browser' and the majority of your version comes to life. A few tweaks here and there are no problem! 
+I am in the process of trying to sell my house for my parents, and the stress won today.
+I spent some time watching the video, looking over the readings, and jumped in too quick. Because i didn't have a good enough grasp I was confused by your example and what the pdf was asking of us, and this it went to sh*t and I completely lost it.  I tried deleting everything and trying from scratch. Nope. I am quitting for today.
+
+I am honestly surprised that it took me 14wks to become defeated, and I guess its just in time for finals.
+
+2. I know I will have to work extra hard, and many days for the final project. I know that now after today.
+
+3. last week was too easy, and reality smacked me in the face real good today. 
