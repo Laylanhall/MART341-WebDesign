@@ -166,6 +166,7 @@ body {
         content:url("../images/tinyinterior2.jpg");
     }
 }
+/* For Trips checkout page: */ 
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
