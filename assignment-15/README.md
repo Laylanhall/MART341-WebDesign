@@ -1,6 +1,9 @@
-1. My Imaginary client was a blogger obsessed with Tiny Houses. They wanted a simple website where they could discuss designs, materials, builders etc. They desired a dropdown with links that would lead their readers to three of their favorite tiny house builders.
+- Well, seeing how I new nothing about wed development, Github, version control, or repositories before this class I feel like I have a 100% increase in knowledge on the subject now.
 
-2. Mobile-first design is important in this day in age because the majority of website users are viewing it on their smart phone's. Accessability is most important.
+- I didn't think I would like Github after the first day, but it has grown on me. To not knowing anything about code to using Atom and building something that looks like a simple website is crazy!
 
-3. My biggest challenge this week was getting my image sizes right. I discovered I had my size definition at percent not pixels. once I got that squared away things started looking less blurry. It was pretty frustrating for awhile until then though.
-- Sometimes the style css gives me trouble just because there is so much to it. but nothing feels better when you click 'open in browser' and the majority of your version comes to life. A few tweaks here and there are no problem! 
+- I did enjoy learning the details of wed design, the relationship of layout, font, and color. How to make it easiest for visitors to use the site, complementary colors and fonts. I learned I liked to problem solve (except when I mess it up so bad I just have to delete it all and start again).
+
+- Right now, I am having trouble with the dropdown menu on my website. I've gotten them to work before but this one isn't taking to it. So I asked for help. I will continue my search and see if I can figure it out before tomorrow.
+
+- 
