@@ -6,4 +6,4 @@
 
 - Right now, I am having trouble with the dropdown menu on my website. I've gotten them to work before but this one isn't taking to it. So I asked for help. I will continue my search and see if I can figure it out before tomorrow.
 
-- 
+- We figured out the dropdown menu, then I just had to adjust it to fit my current site style.

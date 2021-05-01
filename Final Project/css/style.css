@@ -30,17 +30,11 @@ body {
 /* Style the topnav links */
 .topnav a {
     float: left;
-    display: block;
+    display: inline-block;
     color: White;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
-}
-
-/* Change color on hover */
-.topnav a:hover {
-    background-color: #979fa5;
-    color: White;
+    text-decoration: black;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -166,7 +160,7 @@ body {
         content:url("../images/tinyinterior2.jpg");
     }
 }
-/* For Trips checkout page: */ 
+/* For Trips checkout page: */
 .row {
   display: -ms-flexbox; /* IE10 */
   display: flex;
@@ -253,27 +247,6 @@ span.price {
   }
 }
 
-/* Set the layout of the menu: */
-.menu-item {
-  display: inline-block;
-  margin: 1em .2em;
-  min-width: 6em;
-  text-align: center;
-  background-color: #26272b;
-  padding: 0.5em 1em;
-}
-
-/* Style the links: */
-.menu-item a {
-  color: #fff;
-  text-decoration: none;
-}
-
-.menu-item:hover {
-  background-color: gray;
- 
-}
-
 /* Add a dropdown feature: */
 .dropdown {
   display: inline-block;
@@ -286,11 +259,8 @@ span.price {
   border: 1px solid #000;
   margin: 2.75em 0 0 -1em;
   color: #000;
-  background-color: #afc4cc;
+  background-color: #2f3d4c;
   z-index: 1;
-}
-.dropdown-content a {
-  color: #000;
 }
 
 .dropdown:hover .dropdown-content {
@@ -306,8 +276,8 @@ span.price {
   min-width: 1em;
 }
 
-.dropdown-item:hover, .dropdown-item:hover a {
+  .dropdown-item:hover a {
   color: white;
-  background-color: #afc4cc; 
-  
+  background-color: #afc4cc;
+
 }
